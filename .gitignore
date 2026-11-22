@@ -1,0 +1,14 @@
+# Comments start with a hash
+secret_keys.env
+
+# Ignore an entire folder using a trailing slash
+build/
+node_modules/
+.vs/
+
+# Ignore all files with a specific extension using a wildcard (*)
+*.log
+*.tmp
+
+# Exception: track a specific file even if its extension is ignored
+!important.log

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Direct3D Rasterizer/Direct3D Rasterizer.vcxproj" Id="68e07277-50cd-4624-9052-b36fddc25a15" />
+</Solution>
