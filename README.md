@@ -1,4 +1,4 @@
-# RasterLab
+# Direct3D 12 PBR Renderer
 
 A real-time Direct3D 12 renderer built with C++ and HLSL, featuring physically based rendering (PBR) materials, shadow mapping, and a freely movable camera.
 
