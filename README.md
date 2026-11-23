@@ -10,16 +10,14 @@ I built this project to learn how a renderer works directly with the graphics AP
 
 **Screenshot**
 
-> Add a screenshot of the renderer here.
+<img width="953" height="927" alt="image" src="https://github.com/user-attachments/assets/7436405d-87b6-4e5f-9fcd-1cde62014708" />
 
-<!-- Save your screenshot as docs/images/screenshot.png, then uncomment the line below. -->
-<!-- ![RasterLab rendering a textured model with shadows](docs/images/screenshot.png) -->
 
 **Video demo**
 
-> Add a short video showing the camera, materials, and shadows here.
+https://github.com/user-attachments/assets/3ba2e43c-9802-40e6-b6db-b778d540fec2
 
-<!-- Upload an MP4 by dragging it into the GitHub README editor, then place the generated attachment URL here. -->
+
 
 ## Features
 
